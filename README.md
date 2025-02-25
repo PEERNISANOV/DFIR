@@ -1,9 +1,10 @@
-## DFIR Content!🔎
-Welcome to my DFIR repository!
-<br>
-Here I am upload content from my real-life experience such as forensic artifacts, tools, etc...
-<br><br><br>
+## DFIR Content! 🔎  
+Welcome to my DFIR repository!  
 
-<br>
-<img align="center" src="/mag.jpg">
-<br>
+Here, I share knowledge and insights gathered from real-world Digital Forensics and Incident Response (DFIR) investigations.  
+This repository contains forensic artifacts, tools, methodologies, and case studies—all shaped by hands-on experience in the field.  
+Whether you're a professional, student, or enthusiast, you'll find valuable resources that bridge the gap between theory and practice.  
+
+Stay curious, stay sharp, and keep investigating!  
+
+![DFIR](mag.jpg)
